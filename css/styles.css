@@ -131,8 +131,8 @@ gap: 24px;}
     color: #2e2f42;}
 .main-team-title{font-size: 36px; line-height: 1.11; letter-spacing: 0.02em;}
 .main-team-title {background-color: #FFFFFF;}
-.main-team-title {calc((100% - 72px) / 4);
-margin-bottom: 8px;}
+.main-team-title {width: calc((100% - 72px) / 4);
+    margin-bottom: 8px;}
 .main-pic {background-color: #FFFFFF;}
 .main-name {font-weight: 500;
     font-size: 20px;
