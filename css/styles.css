@@ -65,15 +65,11 @@ gap: 40px;}
 
 
 
-.section-main {background-color: #2e2f42;}
-.container {padding: 188px 0
-    max-width: 496px;
-    min-width: 169px;
-    border: none;
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;}
+.section-main {background-color: #2e2f42;
+padding: 188px 0;}
+.container {width: 1440px;
+    height: 600px;}
+
 .section-main-title {font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -92,6 +88,15 @@ gap: 40px;}
     letter-spacing: 0.04em;
     color: #fff;
 }
+.main-section-button {display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;}
 .main-section-button:hover{background-color: #404BBF;}
 .main-section-button:focus{background-color: #404BBF;}
 .main-menu-h{font-weight: 500;
