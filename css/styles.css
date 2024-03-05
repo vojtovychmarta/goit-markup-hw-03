@@ -171,7 +171,7 @@ margin-bottom: 8px;}
     text-align: center;
     color: #2e2f42;}
 .main-portfolio-title{ margin-bottom: 72px;}
-.main.portdolio-list {display: flex;
+.main-portdolio-list {display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;}
@@ -201,6 +201,7 @@ border-top: none;}
 
 
 .footer {background: #2e2f42;}
+.footer {padding: 100px 0;}
 .footer-logo {font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -209,6 +210,8 @@ border-top: none;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5}
+.footer-logo {display: inline-block;
+margin-bottom: 16px;}
 .footer-logo-blue {color: #f4f4fd;}
 .footer-text {font-weight: 400;
     font-size: 16px;
@@ -216,5 +219,6 @@ border-top: none;}
     font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
+.footer-text {max-width: 264px;}
 
         
