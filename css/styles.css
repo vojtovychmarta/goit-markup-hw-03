@@ -81,14 +81,19 @@ gap: 40px;}
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     cursor: pointer;
-    display: block;
-    min-width: 169px;
-    height: 56px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
     letter-spacing: 0.04em;
     color: #fff;}
+.main-section-button{
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: row;
+        gap: 10px;
+    border-radius: 4px;
+        padding: 16px 32px;
+        width: 169px;
+        height: 56px;
+}
 .main-section-button:hover{background-color: #404BBF;}
 .main-section-button:focus{background-color: #404BBF;}
 .main-menu-h{font-weight: 500;
