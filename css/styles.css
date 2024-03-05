@@ -20,7 +20,8 @@ img {display: block;}
     width: 1158px;}
 .container {width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;}
+    padding: 0 15px;
+    display: flex;}
 .container {margin: 0 auto;
     width: 1158px;}
 .header-nav {display: flex;
