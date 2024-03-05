@@ -2,7 +2,7 @@ body {font-family: 'Raleway', sans-serif;
       font-family: 'Roboto', sans-serif;
       color: #434455; 
       background-color: #FFFFFF}
-.img {display: block;}
+  .img {display: block;}
 
 .header {border-bottom: 1px solid #e7e9fc;
     width: 1440px;
