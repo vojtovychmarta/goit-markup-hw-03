@@ -171,7 +171,7 @@ margin-bottom: 8px;}
     text-align: center;
     color: #2e2f42;}
 .main-portfolio-title{ margin-bottom: 72px;}
-.main-portdolio-list {display: flex;
+.main-portfolio-list {display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;}
