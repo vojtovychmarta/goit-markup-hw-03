@@ -16,15 +16,8 @@ img {display: block;}
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;}
-.container-header {display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 0px;
-    width: 115px;
-    height: 24px;}
 .conteiner-header {margin: 0 auto;
-    width: 1158px;;}
+    width: 1158px;}
 .container {width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
