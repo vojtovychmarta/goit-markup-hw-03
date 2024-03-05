@@ -65,7 +65,8 @@ gap: 40px;}
 
 
 
-.section-main {background-color: #2e2f42;}
+.section-main {background-color: #2e2f42;
+padding: 188px 0;}
 .container-main {padding: 188px 0;}
 .section-main-title {font-weight: 700;
     font-size: 56px;
@@ -74,7 +75,8 @@ gap: 40px;}
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;}
+    color: #fff;
+    max-width: 496px;}
 .main-section-button {font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -82,7 +84,10 @@ gap: 40px;}
     font-family: "Roboto", sans-serif;
     cursor: pointer;
     letter-spacing: 0.04em;
-    color: #fff;}
+    color: #fff;
+display: block;
+min-width: 169px;
+}
 .main-section-button:hover{background-color: #404BBF;}
 .main-section-button:focus{background-color: #404BBF;}
 .main-menu-h{font-weight: 500;
