@@ -129,7 +129,7 @@ gap: 24px;}
     background-color: #FFFFFF;
     text-align: center;
     color: #2e2f42;}
-.main-team-title{font-size: 36px; line-height: 1.11; letter-spacing: 0.02em;}
+.main-menu-title{font-size: 36px; line-height: 1.11; letter-spacing: 0.02em;}
 .main-team-title {background-color: #FFFFFF;}
 .main-team-title {flex-basis: calc((100% - 3 * 24px) / 4);}
 .main-menu-h {margin-bottom: 8px;}
