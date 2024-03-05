@@ -16,7 +16,7 @@ body {font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;}
-.header-logo {display: flex;
+.container-header {display: flex;
     align-items: center;
     justify-content: flex-start;
     flex-direction: row;
