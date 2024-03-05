@@ -93,10 +93,12 @@ padding: 188px 0;}
     justify-content: flex-start;
     flex-direction: row;
     gap: 10px;
+    display: block;
 border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;}
+    min-width: 169px;
+    height: 56px;
+border: none;}
 .main-section-button:hover{background-color: #404BBF;}
 .main-section-button:focus{background-color: #404BBF;}
 .main-menu-h{font-weight: 500;
