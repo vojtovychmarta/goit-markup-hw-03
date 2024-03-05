@@ -20,8 +20,7 @@ img {display: block;}
     width: 1158px;}
 .container {width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
-    display: flex;}
+    padding: 0 15px;}
 .container {margin: 0 auto;
     width: 1158px;}
 .header-nav {display: flex;
@@ -64,8 +63,6 @@ gap: 40px;}
 
 .section-main {background-color: #2e2f42;
 padding: 188px 0;}
-.container {width: 1440px;
-    height: 600px;}
 
 .section-main-title {font-weight: 700;
     font-size: 56px;
@@ -91,11 +88,11 @@ padding: 188px 0;}
     flex-direction: row;
     gap: 10px;
     display: block;
-border-radius: 4px;
+    border-radius: 4px;
     padding: 16px 32px;
     min-width: 169px;
     height: 56px;
-border: none;}
+    border: none;}
 .main-section-button:hover{background-color: #404BBF;}
 .main-section-button:focus{background-color: #404BBF;}
 
