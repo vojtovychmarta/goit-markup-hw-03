@@ -22,6 +22,8 @@ img {display: block;}
     margin: 0 auto;
     padding: 0 15px;
     display: flex;}
+.container {margin: 0 auto;
+    width: 1158px;}
 .header-nav {display: flex;
 align-items: center;}
 .header-logo{margin-right: 76px;}
