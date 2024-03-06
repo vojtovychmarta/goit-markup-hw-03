@@ -26,11 +26,10 @@ padding-left: 0;}
     color: #4d5ae5;}
 .header-contacts {font-style: normal;
 margin-left: auto;}
-.conteiner-header {margin: 0 auto;
-    width: 1158px;}
 .container {width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;}
+    padding-right: 15px;
+    padding-left: 15px;}
 .header-nav {display: flex;
 align-items: center;}
 .header-logo{margin-right: 76px;}
